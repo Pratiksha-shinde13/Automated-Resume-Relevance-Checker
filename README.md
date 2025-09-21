@@ -64,11 +64,11 @@ streamlit run app.py
 1. Upload one or more Job Descriptions (JD) in PDF/DOCX format.
 2. Upload student Resumes in PDF/DOCX format.
 3. The system will automatically:
-    Parse text from resumes and JDs
-    Perform hard + semantic matching
-    Generate a Relevance Score (0–100), Missing Skills, and Verdict
-4. View results in the Streamlit dashboard with filtering/search options.
-5. Export results as CSV reports for the placement team.
+       Parse text from resumes and JDs
+       Perform hard + semantic matching
+       Generate a Relevance Score (0–100), Missing Skills, and Verdict
+5. View results in the Streamlit dashboard with filtering/search options.
+6. Export results as CSV reports for the placement team.
 
 
 
