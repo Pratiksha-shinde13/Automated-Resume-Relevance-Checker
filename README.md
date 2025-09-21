@@ -45,4 +45,35 @@ venv\Scripts\activate
 ```bash
 source venv/bin/activate
 ```
+### 3️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+#### Additionally, download the SpaCy English model:
+```bash
+python -m spacy download en_core_web_sm
+```
+### 5️⃣ Run the Application
+#### Start the Streamlit dashboard:
+```bash
+streamlit run app.py
+```
+### Usage
+1. Upload one or more Job Descriptions (JD) in PDF/DOCX format.
+2. Upload student Resumes in PDF/DOCX format.
+3. The system will automatically:
+    Parse text from resumes and JDs
+    Perform hard + semantic matching
+    Generate a Relevance Score (0–100), Missing Skills, and Verdict
+4. View results in the Streamlit dashboard with filtering/search options.
+5. Export results as CSV reports for the placement team.
+
+
+
+
+
+
+
+
+
 
