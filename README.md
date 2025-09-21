@@ -23,6 +23,12 @@ This system automates resume evaluation so placement teams can select students f
 | 🌐 Web Application                        | Streamlit dashboard for uploading JDs/resumes and viewing results           |
 | 📥 Export Results                         | Download CSV reports for each JD separately                                 |
 
+## Result
+
+![WhatsApp Image 2025-09-21 at 1 55 26 PM](https://github.com/user-attachments/assets/89e17ca2-7337-4f20-ba78-e875694fa0d5)
+
+![WhatsApp Image 2025-09-21 at 1 55 27 PM](https://github.com/user-attachments/assets/b26106aa-9deb-4694-ac55-fc94086f1381)
+
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the Automated Resume Relevance Check System on your local machine.
